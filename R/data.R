@@ -29,7 +29,12 @@
 #'        \url{https://doi.org/10.1029/2006wr005844}, 2007}
 #'
 #' @examples
-#' #
+#' # Load the SWATplusR package to access the demo datasets
 #' library(SWATplusR)
+#'
+#' # Load the SWAT2012 demo on Windows
+#' demo_path <- load_demo()
+#'
+#' #
 #'
 NULL
