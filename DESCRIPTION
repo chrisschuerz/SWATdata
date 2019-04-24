@@ -1,0 +1,19 @@
+Package: SWATdata
+Type: Package
+Title: SWAT Project Datasets to use with SWATplusR
+Version: 0.1.0
+Authors@R: person("Christoph", "Schuerz",
+                email = "c.schuerz@posteo.org",
+                role = c("aut", "cre"),
+                comment = c(ORCID = '0000-0002-7204-5828'))
+Maintainer: Christoph Schuerz <c.schuerz@posteo.org>
+Description: SWATdata provides a collection of SWAT model setups for SWAT2012 
+             and different revisions of SWAT+ for a head watershed of the Little 
+             River catchment. The basic idea is to provide the test data sets for 
+             SWATplusR.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.2)
+RoxygenNote: 6.1.1
+URL: https://github.com/chrisschuerz/SWATdata
