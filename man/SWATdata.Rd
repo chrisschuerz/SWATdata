@@ -18,6 +18,7 @@ The following datasets are currently available from \code{SWATdata}:
    SWAT2012 Rev622 \tab X \tab   \tab X\cr
    SWAT2012 Rev637 \tab   \tab X \tab X\cr
    SWAT+    Rev 57 \tab X \tab   \tab X\cr
+   SWAT+    Rev 59 \tab X \tab X \tab X\cr
      }
 }
 \references{
