@@ -30,7 +30,7 @@ devtools::install_github("chrisschuerz/SWATplusR")
 
 ## Basic use
 
-The [Get started](https://chrisschuerz.github.io/SWATplusR/articles/SWATplusR.html#loading-demos) section of the `SWATplusR` gives you a good overview, how to load SWAT demo data sets (*In the current version SWATplusR 0.2.4 `SWATdata` is not integrated!*). Some basic use examples are provided here:
+The [Get started](https://chrisschuerz.github.io/SWATplusR/articles/SWATplusR.html#loading-demos) section of the `SWATplusR` github page gives you a good overview, how to load and use SWAT demo data sets (*In the current version SWATplusR 0.2.4 `SWATdata` is not integrated!*). Some basic use examples are provided here:
 
 ```r
 library(SWATplusR)
