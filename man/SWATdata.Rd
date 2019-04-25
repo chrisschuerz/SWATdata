@@ -28,8 +28,14 @@ platforms. The following table gives an overview of the available datasets:
      }
 }
 \examples{
-#
+# Load the SWATplusR package to access the demo datasets
 library(SWATplusR)
+
+# Load the SWAT2012 demo on Windows
+demo_path <- load_demo()
+
+#
+
 }
 \references{
 \cite{ Bosch, D. D., Sheridan, J. M., Lowrance, R. R., Hubbard, R. K.,
