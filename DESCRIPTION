@@ -1,7 +1,7 @@
 Package: SWATdata
 Type: Package
 Title: SWAT Project Datasets to use with SWATplusR
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person("Christoph", "Schuerz",
                 email = "c.schuerz@posteo.org",
                 role = c("aut", "cre"),
