@@ -9,7 +9,7 @@
 | SWAT2012 | Rev.622  |    X    |       |    X    |
 | SWAT2012 | Rev.637  |         |   X   |    X    |
 | SWAT+    | Rev.57   |    X    |       |    X    |
-| SWAT+    | Rev.59   |    X    |   X   |    X    |
+| SWAT+    | Rev.59.3 |    X    |   X   |    X    |
 
 ## Installation
 
