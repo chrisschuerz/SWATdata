@@ -19,7 +19,7 @@
 #'    SWAT2012 Rev.622 \tab X \tab   \tab X\cr
 #'    SWAT2012 Rev.637 \tab   \tab X \tab X\cr
 #'    SWAT+    Rev.57 \tab X \tab   \tab X\cr
-#'    SWAT+    Rev.59 \tab X \tab X \tab X\cr
+#'    SWAT+    Rev.59.3 \tab X \tab X \tab X\cr
 #'      }
 #' @name SWATdata
 #' @references
